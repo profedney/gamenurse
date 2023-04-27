@@ -44,7 +44,7 @@ label start:
 
     label falso1:
 
-        a "Bah você é muito burro"
+        a "Não. Você errou"
 
         jump saida1
 
